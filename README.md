@@ -1,16 +1,14 @@
 
 <div align="center">
-<a href="https://x.com/EstrKev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/juanriv/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 </div>  
 
 ### <div align="center"> ¡Hey!👋 I'm Juan, Full-Stack Developer | Machile Learning Instructor 👨‍🏫 | Systems Engineering Student </div>  
   
-- 🎓 Engaged in Systems Engineering studies at Universidad de Antioquia
+- 🌟 By day, I’m a Systems Engineering student at Universidad de Antioquia
+- 🌙 By night, I’m an entrepreneur in sales and marketing, turning ideas into success 
 - 🔍 Delving into AI technologies and Machine Learning 
 - 💼 Experienced with API design, and tech training
 - 🚀 Passionate about learning and embracing new opportunities
